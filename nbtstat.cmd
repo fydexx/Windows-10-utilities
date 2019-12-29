@@ -1,0 +1,1 @@
+nbtstat /r & nbtstat /rr
