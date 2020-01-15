@@ -1,0 +1,3 @@
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Video\"unique id"\0000\UMD
+
+string LodAdj = 0
