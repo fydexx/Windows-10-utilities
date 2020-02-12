@@ -1,0 +1,142 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CURRENT_USER\Control Panel\Desktop]
+"MenuShowDelay"=dword:0
+
+[HKEY_CURRENT_USER\Control Panel\Desktop]
+"WaitToKillApp"=dword:0
+
+[HKEY_CURRENT_USER\Control Panel\Desktop]
+"AutoEndTasks"=dword:0
+
+[HKEY_CURRENT_USER\Control Panel\Desktop]
+"WaitToKillServiceTimeout"=dword:0
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer]
+"AlwaysUnloadDll"=dword:1
+
+[HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced]
+"EnableBalloonTips"=dword:0
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Session Manager\Memory Management]
+"DisablePagingExecutive"=dword:1
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Serialize]
+"StartupDelayInMSec"=dword:0
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\sppsvc]
+"Start"=dword:4
+
+[HKEY_CURRENT_USER\Control Panel\Mouse]
+"MouseHoverTime"=dword:0
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Psched]
+"NonBestEffortLimit"=qword:0
+
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\Power\PowerSettings\54533251-82be-4824-96c1-47b60b740d00\0cc5b647-c1df-4637-891a-dec35c318583]
+"ValueMax"=dword:0
+
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Session Manager\Memory Management\PrefetchParameters]
+"EnablePrefetcher"=dword:0
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows Defender]
+"DisableAntiSpyware"=dword:1
+
+[HKEY_CURRENT_USER\Software\Microsoft\Multimedia\Audio]
+"AccessibilityMonoMixState"=dword:1
+
+[HKEY_CURRENT_USER\Control Panel\Keyboard]
+"KeyboardDelay"="0"
+
+[HKEY_CURRENT_USER\Control Panel\Keyboard]
+"KeyboardSpeed"="31"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\Personalization]
+"KeyboardDelay"=dword:0
+
+[HKEY_CURRENT_USER\Keyboard Layout\Preload]
+"1"="00000416"
+
+[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Themes\Personalize]
+"AppsUseLightTheme"=dword:0
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Themes\Personalize]
+"AppsUseLightTheme"=dword:0
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\DataCollection]
+"AllowTelemetry"=dword:0
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Session Manager\Memory Management\PrefetchParameters]
+"EnablePrefetcher"=dword:0
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\MicrosoftEdge\Main]
+"AllowPrefetcher"=dword:0
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\MSMQ\Parameters]
+"TCPNoDelay"=dword:1
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\MSMQ\Parameters\OCMsetup]
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\MSMQ\Parameters\Security]
+"SecureDSCommunication"=dword:0
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Multimedia\SystemProfile]
+"NetworkThrottlingIndex"=dword:ffffffff
+"SystemResponsiveness"=dword:0
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Multimedia\SystemProfile\Tasks\Games]
+"GPU Priority"=dword:8
+"Priority"=dword:6
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Reliability]
+"TimeStampInterval"=dword:0
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\cdrom]
+"AutoRun"=dword:0
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\PriorityControl]
+"IRQ8Priority"=dword:1
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\GWX]
+"DisableGWX"=dword:1
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\WcmSvc\wifinetworkmanager]
+"WiFiSenseCredShared"=dword:0
+"WiFiSenseOpen"=dword:0
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\services\Tcpip\Parameters]
+"TcpNoDelay"=dword:-1
+"TCPDelAckTicks"=dword:0
+"TcpAckFrequency"=dword:1
+"Tcp1323Opts"=dword:3
+"MTU"=dword:1458
+"MSS"=dword:1418
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Tcpip\ServiceProvider]
+"Class"=dword:8
+"DnsPriority"=dword:6
+"HostsPriority"=dword:5
+"LocalPriority"=dword:4
+"NetbtPriority"=dword:7
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Tcpip\Parameters]
+"Tcp1323Opts"=dword:1
+"TcpCreateAndConnectTcbRateLimitDepth"=dword:0
+"DefaultTTL"=dword:40
+"EnableDCA"=dword:1
+"EnablePMTUBHDetect"=dword:1
+"EnablePMTUDiscovery"=dword:1
+"EnableRSS"=dword:1
+"EnableTCPA"=dword:0
+"EnableWsd"=dword:0
+"SackOpts"=dword:1
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Multimedia\SystemProfile\Tasks\Low Latency]
+"Scheduling Category"="High"
+"SFIO Priority"="High"
+"Background Only"="False"
+"Priority"=dword:1
+"Latency Sensitive"="True"
+"Clock Rate"=dword:2710
+"GPU Priority"=dword:2
+"Affinity"=dword:0
